@@ -5,10 +5,6 @@ class Project
     @project = project
   end
   
-  def back_project(project)
-    @backers << project
-  end   
-  
   def backed_projects
     
     

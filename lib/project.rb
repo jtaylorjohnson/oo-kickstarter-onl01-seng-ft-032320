@@ -5,7 +5,6 @@ class Project
     @project = project
   end
   
-  def backed_projects
     
     
 end
